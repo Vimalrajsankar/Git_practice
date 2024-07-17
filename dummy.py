@@ -1,4 +1,4 @@
-def sub(a,b):
-    c= a-b
+def mul(a,b):
+    c= a*b
     print(c)
-sub(2,4)
+mul(2,4)
