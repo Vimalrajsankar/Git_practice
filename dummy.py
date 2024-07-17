@@ -1,4 +1,4 @@
-def add(a,b):
-    c= a+b
+def sub(a,b):
+    c= a-b
     print(c)
-add(2,4)
+sub(2,4)
